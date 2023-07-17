@@ -18,11 +18,11 @@
 |                                      | S_AGILE_02: Conduct Sprint Planning                                                        |        ✔         |
 |                                      | S_AGILE_03: Create Task Board & Burndown chart                                             |        ✔         |
 |                                      | S_AGILE_04: Prepare DOR and DOD                                                            |        ✔         |
-| C Programming                        | S_C_01: X-O Game                                                                           |                  |
-|                                      | S_DS_01: Check Balanced Paranthethes                                                       |                  |
-|                                      | S_ALG_01: Longest Consecutive Sequence                                                     |                  |
+| C Programming                        | S_C_01: X-O Game                                                                           |        ✔         |
+|                                      | S_DS_01: Check Balanced Paranthethes                                                       |        ✔         |
+|                                      | S_ALG_01: Longest Consecutive Sequence                                                     |        ✔         |
 |                                      | S_BUILD_01: Refactor previous tasks                                                        |                  |
-|                                      | S_CAP_PROJECT: Payment Application                                                         |                  |
+|                                      | S_CAP_PROJECT: Payment Application                                                         |        ✔*        |
 | Embedded Systems Level 1             | S_ESL1_01: Moving Car Design                                                               |                  |
 |                                      | S_ESL1_02: LED sequence V1.0                                                               |                  |
 |                                      | S_ESL1_03: LED sequence V2.0                                                               |                  |
