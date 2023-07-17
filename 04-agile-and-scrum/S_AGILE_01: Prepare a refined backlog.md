@@ -1,0 +1,10 @@
+| Draf ideas                           | User story                                                                                                                                                            |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Create account                       | As a user, I want to create an account so that I able to start using the application, enter my address and save my credential.                                        |
+| View restaurant                      | As a user, I want to view, locate which is nearest to me.                                                                                                             |
+| Search restaurant                    | As a user, I want to be able to search for a specific restaurant so that I able to choose my favourite restaurant.                                                    |
+| View menu                            | As a user, I want to view menu so that to see different kitchens, and compare between the different prices.                                                           |
+| Add to cart                          | As a user, I want to add to cart feature, so that I am able to continue shopping and looking for different items.                                                     |
+| Purchase                             | As a user, I want to have different purchases mechanisms to choose from.                                                                                              |
+| Restaurant view order                | As a restaurant admin, I want to view the orders recieved in a sequential order to be able to provide the fasted order-to-delivery time.                              |
+| Restaurant marks orders as delieverd | As a restaurant admin, I want to marks the delievered orders so that to avoid any conflict between the customer, and to add the amount payed into the cashing system. |
