@@ -1,23 +1,23 @@
 # sprints-automotive-software-bootcamp
 | Topic                                | Task ID                                                                                    | Availability (✔) |
 |--------------------------------------|--------------------------------------------------------------------------------------------|------------------|
-| SW Configuration Management          | S_SWCM_01: Practicing Git                                                                  |                  |
-| Introduction to Software Engineering | S_SWE_01: Draw your first flowchart                                                        |                  |
-|                                      | S_SWE_02: Draw your first sequence diagram                                                 |                  |
-| Project Management Foundation        | S_PM_01: Identify Stakeholders                                                             |                  |
-|                                      | S_PM_02: Stakeholder Engagement & Communication Plan                                       |                  |
-|                                      | S_PM_03: Create Team Charter                                                               |                  |
-|                                      | S_PM_04: Create WBS for your project                                                       |                  |
-|                                      | S_PM_05: Risk Management                                                                   |                  |
-|                                      | S_PM_06: Estimation                                                                        |                  |
-|                                      | S_PM_07: Basic Scheduling                                                                  |                  |
-|                                      | S_PM_08: Scheduling via PDM                                                                |                  |
+| SW Configuration Management          | S_SWCM_01: Practicing Git                                                                  |        ✔         |
+| Introduction to Software Engineering | S_SWE_01: Draw your first flowchart                                                        |        ✔         |
+|                                      | S_SWE_02: Draw your first sequence diagram                                                 |        ✔         |
+| Project Management Foundation        | S_PM_01: Identify Stakeholders                                                             |        ✔         |
+|                                      | S_PM_02: Stakeholder Engagement & Communication Plan                                       |        ✔         |
+|                                      | S_PM_03: Create Team Charter                                                               |        ✔         |
+|                                      | S_PM_04: Create WBS for your project                                                       |        ✔         |
+|                                      | S_PM_05: Risk Management                                                                   |        ✔         |
+|                                      | S_PM_06: Estimation                                                                        |        ✔         |
+|                                      | S_PM_07: Basic Scheduling                                                                  |        ✔         |
+|                                      | S_PM_08: Scheduling via PDM                                                                |        ✔         |
 |                                      | S_PM_09: Scheduling via MS Project (Bonus)                                                 |                  |
-|                                      | S_PM_10: Monitoring via EVM                                                                |                  |
-| Agile & Scrum                        | S_AGILE_01: Prepare a refined backlog                                                      |                  |
-|                                      | S_AGILE_02: Conduct Sprint Planning                                                        |                  |
-|                                      | S_AGILE_03: Create Task Board & Burndown chart                                             |                  |
-|                                      | S_AGILE_04: Prepare DOR and DOD                                                            |                  |
+|                                      | S_PM_10: Monitoring via EVM                                                                |        ✔         |
+| Agile & Scrum                        | S_AGILE_01: Prepare a refined backlog                                                      |        ✔         |
+|                                      | S_AGILE_02: Conduct Sprint Planning                                                        |        ✔         |
+|                                      | S_AGILE_03: Create Task Board & Burndown chart                                             |        ✔         |
+|                                      | S_AGILE_04: Prepare DOR and DOD                                                            |        ✔         |
 | C Programming                        | S_C_01: X-O Game                                                                           |                  |
 |                                      | S_DS_01: Check Balanced Paranthethes                                                       |                  |
 |                                      | S_ALG_01: Longest Consecutive Sequence                                                     |                  |
