@@ -49,10 +49,10 @@
 |                                      | S_ARM_03: RGB LED contol V2.0                                                              |                  |
 |                                      | S_ARM_04: RGB LED blinking                                                                 |                  |
 |                                      | S_ARM_CAP_PROJECT: Moving Car Project V2.0                                                 |                  |
-| RTOS                                 | S_RTOS_01: Introduction To Freertos                                                        |                  |
-|                                      | S_RTOS_02: Interprocess Communication                                                      |                  |
-|                                      | S_RTOS_03: Designing a real-time system                                                    |                  |
-|                                      | S_RTOS_04: Scheduling analysis                                                             |                  |
+| RTOS                                 | S_RTOS_01: Introduction To Freertos                                                        |        ✔         |
+|                                      | S_RTOS_02: Interprocess Communication                                                      |        ✔         |
+|                                      | S_RTOS_03: Designing a real-time system                                                    |        ✔         |
+|                                      | S_RTOS_04: Scheduling analysis                                                             |        ✔         |
 |                                      | S_RTOS_CAP_PROJECT: EDF Scheduler                                                          |                  |
 | Makefile                             | S_MAKE_01:Payment application Make                                                         |                  |
 |                                      | S_MAKE_02:LED sequence V1.0 Make                                                           |                  |
