@@ -41,9 +41,9 @@
 |                                      | S_DYNAMIC_09: Implement a TMU (Optional)                                                   |                  |
 |                                      | S_DYNAMIC_10: Design a Small OS                                                            |                  |
 |                                      | S_DYNAMIC_11: Implement a Small OS                                                         |                  |
-| MISRA                                | S_MISRA_01: DIO driver MISRA compliant                                                     |                  |
-|                                      | S_MISRA_02: Timer driver MISRA compliant                                                   |                  |
-|                                      | S_MISRA_03: LED Sequence V3.0 MISRA compliant                                              |                  |
+| MISRA                                | S_MISRA_01: DIO driver MISRA compliant                                                     |        ✔         |
+|                                      | S_MISRA_02: Timer driver MISRA compliant                                                   |        ✔         |
+|                                      | S_MISRA_03: LED Sequence V3.0 MISRA compliant                                              |        ✔         |
 | ARM                                  | S_ARM_01: Run WD Tester                                                                    |                  |
 |                                      | S_ARM_02: RGB LED contol V1.0                                                              |                  |
 |                                      | S_ARM_03: RGB LED contol V2.0                                                              |                  |
