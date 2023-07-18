@@ -1,0 +1,669 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+                              /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o (exit)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+                              build/USBASP/production/ecual/keypad/keypad.o (__do_copy_data)
+/usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+                              build/USBASP/production/mcal/timer/timer.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+g_st_currentBlinkSequence
+                    0x4               build/USBASP/production/application/application.o
+fptr_TIMER0_CallBackFunction
+                    0x2               build/USBASP/production/mcal/timer/timer.o
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+ .bss           0x0000000000000000        0x0 /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/ecual/ultrasonic_sensor/ultrasonic_sensor.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/ecual/ultrasonic_sensor/ultrasonic_sensor.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/ecual/ultrasonic_sensor/ultrasonic_sensor.o
+ .comment       0x0000000000000000       0x12 build/USBASP/production/ecual/ultrasonic_sensor/ultrasonic_sensor.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/ecual/push_button/push_button.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/ecual/push_button/push_button.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/ecual/push_button/push_button.o
+ .text.PB_status
+                0x0000000000000000       0x4c build/USBASP/production/ecual/push_button/push_button.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/ecual/led/led.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/ecual/led/led.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/ecual/led/led.o
+ .text.LED_toggle
+                0x0000000000000000       0x34 build/USBASP/production/ecual/led/led.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/ecual/lcd/lcd.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/ecual/lcd/lcd.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/ecual/lcd/lcd.o
+ .text.LCD_sendCommand
+                0x0000000000000000       0xda build/USBASP/production/ecual/lcd/lcd.o
+ .text.LCD_init
+                0x0000000000000000       0x62 build/USBASP/production/ecual/lcd/lcd.o
+ .text.LCD_displayCharacter
+                0x0000000000000000       0xe2 build/USBASP/production/ecual/lcd/lcd.o
+ .text.LCD_displayString
+                0x0000000000000000       0x2c build/USBASP/production/ecual/lcd/lcd.o
+ .text.LCD_createCustomCharacter
+                0x0000000000000000       0x34 build/USBASP/production/ecual/lcd/lcd.o
+ .text.LCD_moveCursor
+                0x0000000000000000       0x18 build/USBASP/production/ecual/lcd/lcd.o
+ .comment       0x0000000000000000       0x12 build/USBASP/production/ecual/lcd/lcd.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/ecual/keypad/keypad.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/ecual/keypad/keypad.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/ecual/keypad/keypad.o
+ .text.KEYPAD_init
+                0x0000000000000000       0x2a build/USBASP/production/ecual/keypad/keypad.o
+ .text.KEYPAD_getKeyPressed
+                0x0000000000000000       0xea build/USBASP/production/ecual/keypad/keypad.o
+ .text.KEYPAD_mappedKey
+                0x0000000000000000        0xc build/USBASP/production/ecual/keypad/keypad.o
+ .rodata.KEY_LABEL
+                0x0000000000000000       0x10 build/USBASP/production/ecual/keypad/keypad.o
+ .rodata.keypad_keys
+                0x0000000000000000       0x10 build/USBASP/production/ecual/keypad/keypad.o
+ .comment       0x0000000000000000       0x12 build/USBASP/production/ecual/keypad/keypad.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/ecual/buzzer/buzzer.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/ecual/buzzer/buzzer.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/ecual/buzzer/buzzer.o
+ .text.BUZZER_init
+                0x0000000000000000        0xc build/USBASP/production/ecual/buzzer/buzzer.o
+ .text.BUZZER_on
+                0x0000000000000000        0xc build/USBASP/production/ecual/buzzer/buzzer.o
+ .text.BUZZER_off
+                0x0000000000000000        0xc build/USBASP/production/ecual/buzzer/buzzer.o
+ .comment       0x0000000000000000       0x12 build/USBASP/production/ecual/buzzer/buzzer.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/mcal/timer/timer.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/mcal/timer/timer.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/mcal/timer/timer.o
+ .text.TIMER_LoadCountReg
+                0x0000000000000000        0x4 build/USBASP/production/mcal/timer/timer.o
+ .text.TIMER_LoadCompReg
+                0x0000000000000000        0x4 build/USBASP/production/mcal/timer/timer.o
+ .text.TIMER_GETOVFlagStatus
+                0x0000000000000000       0x14 build/USBASP/production/mcal/timer/timer.o
+ .text.TIMER_DeInit
+                0x0000000000000000        0x8 build/USBASP/production/mcal/timer/timer.o
+ .text.TIMER_SetCallbackFunc
+                0x0000000000000000        0xa build/USBASP/production/mcal/timer/timer.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/mcal/spi/spi.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/mcal/spi/spi.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/mcal/spi/spi.o
+ .text.SPI_initMaster
+                0x0000000000000000       0x10 build/USBASP/production/mcal/spi/spi.o
+ .text.SPI_initSlave
+                0x0000000000000000        0xe build/USBASP/production/mcal/spi/spi.o
+ .text.SPI_sendReceiveByte
+                0x0000000000000000        0xc build/USBASP/production/mcal/spi/spi.o
+ .text.SPI_sendString
+                0x0000000000000000       0x40 build/USBASP/production/mcal/spi/spi.o
+ .text.SPI_reveiveString
+                0x0000000000000000       0x46 build/USBASP/production/mcal/spi/spi.o
+ .comment       0x0000000000000000       0x12 build/USBASP/production/mcal/spi/spi.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/mcal/gpio/gpio.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/mcal/gpio/gpio.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/mcal/gpio/gpio.o
+ .text.GPIO_setPortDirection
+                0x0000000000000000       0x84 build/USBASP/production/mcal/gpio/gpio.o
+ .text.GPIO_readPin
+                0x0000000000000000      0x11a build/USBASP/production/mcal/gpio/gpio.o
+ .text.GPIO_togglePin
+                0x0000000000000000       0x84 build/USBASP/production/mcal/gpio/gpio.o
+ .text.GPIO_writePort
+                0x0000000000000000       0x34 build/USBASP/production/mcal/gpio/gpio.o
+ .text.GPIO_readPort
+                0x0000000000000000       0x44 build/USBASP/production/mcal/gpio/gpio.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/services/timer_services.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/services/timer_services.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/services/timer_services.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/main.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/main.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/main.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/application/application.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/application/application.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/application/application.o
+ .bss.pb2_status
+                0x0000000000000000        0x1 build/USBASP/production/application/application.o
+ .bss.pb1_status
+                0x0000000000000000        0x1 build/USBASP/production/application/application.o
+ .text          0x0000000000000000        0x0 build/USBASP/production/mcal/interrupt/exi.o
+ .data          0x0000000000000000        0x0 build/USBASP/production/mcal/interrupt/exi.o
+ .bss           0x0000000000000000        0x0 build/USBASP/production/mcal/interrupt/exi.o
+ .text.EXI_disable
+                0x0000000000000000       0x26 build/USBASP/production/mcal/interrupt/exi.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800060 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+LOAD build/USBASP/production/ecual/ultrasonic_sensor/ultrasonic_sensor.o
+LOAD build/USBASP/production/ecual/push_button/push_button.o
+LOAD build/USBASP/production/ecual/led/led.o
+LOAD build/USBASP/production/ecual/lcd/lcd.o
+LOAD build/USBASP/production/ecual/keypad/keypad.o
+LOAD build/USBASP/production/ecual/buzzer/buzzer.o
+LOAD build/USBASP/production/mcal/timer/timer.o
+LOAD build/USBASP/production/mcal/spi/spi.o
+LOAD build/USBASP/production/mcal/gpio/gpio.o
+LOAD build/USBASP/production/services/timer_services.o
+LOAD build/USBASP/production/main.o
+LOAD build/USBASP/production/application/application.o
+LOAD build/USBASP/production/mcal/interrupt/exi.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+START GROUP
+LOAD /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libm.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/5.4.0/../../../avr/lib/avr5/libc.a
+LOAD /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/libatmega32.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0xbf8
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000054                . = ALIGN (0x2)
+                0x0000000000000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000054        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000000000000054                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000054                __ctors_start = .
+ *(.ctors)
+                0x0000000000000054                __ctors_end = .
+                0x0000000000000054                __dtors_start = .
+ *(.dtors)
+                0x0000000000000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000054        0x0 /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x0000000000000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000054        0xc /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000060       0x16 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_copy_data.o)
+                0x0000000000000060                __do_copy_data
+ .init4         0x0000000000000076       0x10 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_clear_bss.o)
+                0x0000000000000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000086        0x8 /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000000000008e        0x4 /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x000000000000008e                __vector_12
+                0x000000000000008e                __bad_interrupt
+                0x000000000000008e                __vector_6
+                0x000000000000008e                __vector_11
+                0x000000000000008e                __vector_13
+                0x000000000000008e                __vector_17
+                0x000000000000008e                __vector_19
+                0x000000000000008e                __vector_7
+                0x000000000000008e                __vector_5
+                0x000000000000008e                __vector_4
+                0x000000000000008e                __vector_9
+                0x000000000000008e                __vector_15
+                0x000000000000008e                __vector_8
+                0x000000000000008e                __vector_14
+                0x000000000000008e                __vector_16
+                0x000000000000008e                __vector_18
+                0x000000000000008e                __vector_20
+                0x0000000000000092                . = ALIGN (0x2)
+ *(.text.*)
+ .text.PB_init  0x0000000000000092       0x4c build/USBASP/production/ecual/push_button/push_button.o
+                0x0000000000000092                PB_init
+ .text.LED_init
+                0x00000000000000de        0xe build/USBASP/production/ecual/led/led.o
+                0x00000000000000de                LED_init
+ .text.LED_on   0x00000000000000ec       0x10 build/USBASP/production/ecual/led/led.o
+                0x00000000000000ec                LED_on
+ .text.LED_off  0x00000000000000fc       0x10 build/USBASP/production/ecual/led/led.o
+                0x00000000000000fc                LED_off
+ .text.TIMER_SetClkPresclr
+                0x000000000000010c       0xb2 build/USBASP/production/mcal/timer/timer.o
+ .text.TIMER_GetOCFlagStatus
+                0x00000000000001be       0x14 build/USBASP/production/mcal/timer/timer.o
+                0x00000000000001be                TIMER_GetOCFlagStatus
+ .text.TIMER_Init
+                0x00000000000001d2      0x16c build/USBASP/production/mcal/timer/timer.o
+                0x00000000000001d2                TIMER_Init
+ .text.__vector_10
+                0x000000000000033e       0x52 build/USBASP/production/mcal/timer/timer.o
+                0x000000000000033e                __vector_10
+ .text.GPIO_setPinDirection
+                0x0000000000000390      0x124 build/USBASP/production/mcal/gpio/gpio.o
+                0x0000000000000390                GPIO_setPinDirection
+ .text.GPIO_writePin
+                0x00000000000004b4      0x124 build/USBASP/production/mcal/gpio/gpio.o
+                0x00000000000004b4                GPIO_writePin
+ .text.millis   0x00000000000005d8       0x38 build/USBASP/production/services/timer_services.o
+                0x00000000000005d8                millis
+ .text.main     0x0000000000000610        0xa build/USBASP/production/main.o
+                0x0000000000000610                main
+ .text.APP_PB1CallbackFunc
+                0x000000000000061a       0x1e build/USBASP/production/application/application.o
+                0x000000000000061a                APP_PB1CallbackFunc
+ .text.APP_PB2CallbackFunc
+                0x0000000000000638       0x1e build/USBASP/production/application/application.o
+                0x0000000000000638                APP_PB2CallbackFunc
+ .text.APP_Init
+                0x0000000000000656       0x66 build/USBASP/production/application/application.o
+                0x0000000000000656                APP_Init
+ .text.APP_Start
+                0x00000000000006bc      0x33a build/USBASP/production/application/application.o
+                0x00000000000006bc                APP_Start
+ .text.EXI_enable
+                0x00000000000009f6       0x26 build/USBASP/production/mcal/interrupt/exi.o
+                0x00000000000009f6                EXI_enable
+ .text.EXI_triggerEdge
+                0x0000000000000a1c       0xb8 build/USBASP/production/mcal/interrupt/exi.o
+                0x0000000000000a1c                EXI_triggerEdge
+ .text.EXI_setCallBack
+                0x0000000000000ad4       0x2a build/USBASP/production/mcal/interrupt/exi.o
+                0x0000000000000ad4                EXI_setCallBack
+ .text.__vector_1
+                0x0000000000000afe       0x52 build/USBASP/production/mcal/interrupt/exi.o
+                0x0000000000000afe                __vector_1
+ .text.__vector_2
+                0x0000000000000b50       0x52 build/USBASP/production/mcal/interrupt/exi.o
+                0x0000000000000b50                __vector_2
+ .text.__vector_3
+                0x0000000000000ba2       0x52 build/USBASP/production/mcal/interrupt/exi.o
+                0x0000000000000ba2                __vector_3
+                0x0000000000000bf4                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000bf4        0x0 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+                0x0000000000000bf4                exit
+                0x0000000000000bf4                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000000bf4        0x4 /usr/lib/gcc/avr/5.4.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000000bf8                _etext = .
+
+.data           0x0000000000800060       0x24 load address 0x0000000000000bf8
+                0x0000000000800060                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.led4     0x0000000000800060        0x2 build/USBASP/production/application/application.o
+                0x0000000000800060                led4
+ .data.led3     0x0000000000800062        0x2 build/USBASP/production/application/application.o
+                0x0000000000800062                led3
+ .data.led2     0x0000000000800064        0x2 build/USBASP/production/application/application.o
+                0x0000000000800064                led2
+ .data.led1     0x0000000000800066        0x2 build/USBASP/production/application/application.o
+                0x0000000000800066                led1
+ .data.st_APP_BlinkSequence
+                0x0000000000800068       0x14 build/USBASP/production/application/application.o
+                0x0000000000800068                st_APP_BlinkSequence
+ .data.myTIMERConfig
+                0x000000000080007c        0x7 build/USBASP/production/application/application.o
+                0x000000000080007c                myTIMERConfig
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800084                . = ALIGN (0x2)
+ *fill*         0x0000000000800083        0x1 
+                0x0000000000800084                _edata = .
+                0x0000000000800084                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800084       0x10
+                0x0000000000800084                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.g_TickCounter
+                0x0000000000800084        0x2 build/USBASP/production/services/timer_services.o
+                0x0000000000800084                g_TickCounter
+ .bss.g_blinkSequence
+                0x0000000000800086        0x1 build/USBASP/production/application/application.o
+                0x0000000000800086                g_blinkSequence
+ .bss.g_ledSequence
+                0x0000000000800087        0x1 build/USBASP/production/application/application.o
+                0x0000000000800087                g_ledSequence
+ .bss.EXI_INT2_FuncPtr
+                0x0000000000800088        0x2 build/USBASP/production/mcal/interrupt/exi.o
+ .bss.EXI_INT1_FuncPtr
+                0x000000000080008a        0x2 build/USBASP/production/mcal/interrupt/exi.o
+ .bss.EXI_INT0_FuncPtr
+                0x000000000080008c        0x2 build/USBASP/production/mcal/interrupt/exi.o
+ *(COMMON)
+ COMMON         0x000000000080008e        0x2 build/USBASP/production/mcal/timer/timer.o
+                0x000000000080008e                fptr_TIMER0_CallBackFunction
+ COMMON         0x0000000000800090        0x4 build/USBASP/production/application/application.o
+                0x0000000000800090                g_st_currentBlinkSequence
+                0x0000000000800094                PROVIDE (__bss_end, .)
+                0x0000000000000bf8                __data_load_start = LOADADDR (.data)
+                0x0000000000000c1c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800094        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800094                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 build/USBASP/production/ecual/push_button/push_button.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 build/USBASP/production/ecual/led/led.o
+ .comment       0x0000000000000011       0x12 build/USBASP/production/mcal/timer/timer.o
+ .comment       0x0000000000000011       0x12 build/USBASP/production/mcal/gpio/gpio.o
+ .comment       0x0000000000000011       0x12 build/USBASP/production/services/timer_services.o
+ .comment       0x0000000000000011       0x12 build/USBASP/production/main.o
+ .comment       0x0000000000000011       0x12 build/USBASP/production/application/application.o
+ .comment       0x0000000000000011       0x12 build/USBASP/production/mcal/interrupt/exi.o
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x4e6
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x4e6 /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.debug_abbrev   0x0000000000000000      0x4a3
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a3 /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.debug_line     0x0000000000000000      0x116
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x116 /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x196
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x196 /opt/microchip/mplabx/v6.10/packs/Microchip/ATmega_DFP/3.0.158/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/USBASP/production/avr-drivers.X.production.elf elf32-avr)
+LOAD linker stubs

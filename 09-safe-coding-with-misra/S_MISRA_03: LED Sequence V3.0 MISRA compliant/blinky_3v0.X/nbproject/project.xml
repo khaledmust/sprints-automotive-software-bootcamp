@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>blinky_3v0</name>
+            <creation-uuid>4cf76c72-1aa5-45d8-b10c-e9fca6731cbf</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>ecual</sourceRootElem>
+                <sourceRootElem>mcal/gpio</sourceRootElem>
+                <sourceRootElem>mcal/interrupt</sourceRootElem>
+                <sourceRootElem>mcal/spi</sourceRootElem>
+                <sourceRootElem>mcal/timer</sourceRootElem>
+                <sourceRootElem>utilities</sourceRootElem>
+                <sourceRootElem>services</sourceRootElem>
+                <sourceRootElem>application</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>USBASP</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
